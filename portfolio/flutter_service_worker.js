@@ -1,13 +1,13 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "45e20cf99d151fcde195d2295554c423",
+  "assets/AssetManifest.json": "7ddf377cbf62b36f613269d71304577f",
 "assets/assets/about.html": "cca535e84bb3f1ad20cd1423638d0253",
 "assets/assets/AssetManifest.json": "47cb272ae787cc1021bbf76daf726e5a",
 "assets/assets/assets/about.html": "cca535e84bb3f1ad20cd1423638d0253",
 "assets/assets/assets/AssetManifest.json": "3dcd5dbf8b26dde048f0b9ede7beb13d",
 "assets/assets/assets/assets/about.html": "cca535e84bb3f1ad20cd1423638d0253",
-"assets/assets/assets/assets/avatar.jpg": "5a41d0886c8efa9675149c7ec8e37a9a",
+"assets/assets/assets/assets/avatar.jpg": "25bcb8ae00bf539fc4294d2299cde32f",
 "assets/assets/assets/assets/facebook.png": "021ada146ffb7c1753557ff29618d04c",
 "assets/assets/assets/assets/FontManifest.json": "59c37979205b4b43589051e92e27cbcd",
 "assets/assets/assets/assets/github.png": "d22ee3727a7216019c3848df6eafa024",
@@ -17,7 +17,6 @@ const RESOURCES = {
 "assets/assets/assets/assets/medium_light.png": "bd516690c99267a778885736015befe8",
 "assets/assets/assets/assets/moon.png": "a270b8a10d1a9a52441bf5a322dd1b86",
 "assets/assets/assets/assets/twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
-"assets/assets/assets/avatar.jpg": "5a41d0886c8efa9675149c7ec8e37a9a",
 "assets/assets/assets/facebook.png": "021ada146ffb7c1753557ff29618d04c",
 "assets/assets/assets/FontManifest.json": "592290621294619b16740a9d89232ba6",
 "assets/assets/assets/github.png": "d22ee3727a7216019c3848df6eafa024",
