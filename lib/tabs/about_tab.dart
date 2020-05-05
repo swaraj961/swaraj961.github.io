@@ -242,9 +242,10 @@ class AboutTab extends StatelessWidget {
                  Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
-          RaisedButton(
+          RaisedButton.icon(
             shape: StadiumBorder(),
-            child: Text("Resume"),
+            icon: Icon(Icons.description),
+            label: Text("Resume"),
             color: Colors.deepOrangeAccent,
             onPressed: () {
               html.window.open(
@@ -256,9 +257,10 @@ class AboutTab extends StatelessWidget {
           SizedBox(
             width: 20,
           ),
-           RaisedButton(
+           RaisedButton.icon(
+             icon: Icon(Icons.mail),
             shape: StadiumBorder(),
-            child: Text("Mail Me"),
+            label:Text("Mail Me"),
             color: Colors.deepOrangeAccent,
             onPressed: () {
               loadurlgmail();
