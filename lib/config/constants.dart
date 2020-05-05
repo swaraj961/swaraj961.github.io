@@ -7,10 +7,10 @@ class Constants{
         "Good interpersonal and and communication skills.\n";
 
         static const String myintroSmall ="I'm Swaraj Routray a Flutter Developer.Persuing B.Tech in"
-        " IT From Usict GGSIPU has Ability to work with c++ "
-        "java,dart,Ps,XD.Having Good knowledge in Cisco "
-        "Networking ,can workwell under pressure and make the"
-        "best of any situation .A Passionate individual Having"
+        " IT From Usict GGSIPU has Ability to work with c++ java "
+        "dart,Ps,XD.Having Good knowledge in Cisco "
+        "Networking ,can workwell under pressure and make the "
+        "best of any situation .A Passionate individual Having "
         "Good interpersonal and and communication skills.\n";
   
   
