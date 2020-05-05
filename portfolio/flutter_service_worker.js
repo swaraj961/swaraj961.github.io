@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7ddf377cbf62b36f613269d71304577f",
+  "assets/AssetManifest.json": "09725be8d6e119ae133c35d3b2f5ca3b",
 "assets/assets/about.html": "cca535e84bb3f1ad20cd1423638d0253",
 "assets/assets/AssetManifest.json": "47cb272ae787cc1021bbf76daf726e5a",
 "assets/assets/assets/about.html": "cca535e84bb3f1ad20cd1423638d0253",
@@ -44,7 +44,7 @@ const RESOURCES = {
 "assets/assets/works/calc.png": "18682e07575b9d4bc571899a14fb1ad1",
 "assets/assets/works/covid.png": "79c40d06af10405b85ad5251e9f292c7",
 "assets/assets/works/flash.png": "837c4288713dbe56af119bf799ccedee",
-"assets/assets/works/magicball.PNG": "8bfec85deeb3edb0f9de3a44193b5292",
+"assets/assets/works/magicball.png": "8bfec85deeb3edb0f9de3a44193b5292",
 "assets/assets/works/messio.png": "827f062f04c16a164d9d7e9d13f24916",
 "assets/assets/works/quiz.png": "64f7d82132a0e9a5bce48f2e83ec8b86",
 "assets/assets/works/rolldice.png": "c05b11eacb54e48efb2c07b5a53163c6",
@@ -61,7 +61,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "1bb3b9516456fa76110578a1980f957c",
 "/": "1bb3b9516456fa76110578a1980f957c",
-"main.dart.js": "a6bcfc76df7a1080db4cb3ce8f656977",
+"main.dart.js": "6bea6e8eac55c716489eac6a11df1440",
 "manifest.json": "2dfd50e84e8bd1342acecd27b33974d6"
 };
 
