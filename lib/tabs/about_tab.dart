@@ -249,7 +249,7 @@ class AboutTab extends StatelessWidget {
             color: Colors.deepOrangeAccent,
             onPressed: () {
               html.window.open(
-                  "https://drive.google.com/file/d/1RAOc1wyCjMFUq4C9KuEquFxVMYPz-DZw/view",
+                  "https://drive.google.com/file/d/1RAOc1wyCjMFUq4C9KuEquFxVMYPz-DZw/view?usp=sharing",
                   "");
             },
             padding: EdgeInsets.all(10),
